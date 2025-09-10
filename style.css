@@ -1,4 +1,7 @@
 body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: beige;
     font-size: 35;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
